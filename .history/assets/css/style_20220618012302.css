@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-size: 28px;
   margin: 0;
   padding: 4px 0;
-  line-height: 1;
+  /* line-height: 1; */
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #header .logo img {
   padding-top: 5px;
   margin: 0;
-  max-height: 70px;
+  max-height: 60px;
 }
 
 #main {
