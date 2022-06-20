@@ -802,7 +802,7 @@ section {
   color: #68A4C4;
 }
 .features p:last-child {
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .features-img {
